@@ -3,6 +3,7 @@
 	"displayName": "Fold/unfold all icone",
 	"description": "Add a fold all and unfold all status bar's icone ",
 	"version": "0.0.1",
+	"publisher": "FerrierBenjamin",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Benjioe/vscode-fold-unfold-all-icone"
