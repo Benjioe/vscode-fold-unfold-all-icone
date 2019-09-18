@@ -13,7 +13,8 @@
 		"fold",
 		"collapse",
 		"expand",
-		"icon"
+		"icon",
+		"button"
 	],
 	"icon": "icon.png",
 	"engines": {
